@@ -1,0 +1,13 @@
+
+	Welch Two Sample t-test
+
+data:  dataset$CPU_Usage and dataset$Memory_Usage
+t = -0.89103, df = 1997.9,
+p-value = 0.373
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.03626233  0.01360538
+sample estimates:
+mean of x mean of y 
+0.4866419 0.4979704 
+

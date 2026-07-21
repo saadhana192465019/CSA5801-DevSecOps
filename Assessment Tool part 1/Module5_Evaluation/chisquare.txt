@@ -1,0 +1,7 @@
+
+	Pearson's Chi-squared test
+
+data:  table(dataset$Threat, dataset$Attack_Result)
+X-squared = 2.1102, df =
+3, p-value = 0.5499
+
