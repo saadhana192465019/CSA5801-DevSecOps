@@ -1,0 +1,37 @@
+CYBER THREAT PROPAGATION PROJECT
+
+====================================
+DATASET SUMMARY
+====================================
+Total Devices : 1000 
+Total Variables : 26 
+
+====================================
+DEVICE STATE
+====================================
+
+ Infected Recovered 
+      600       400 
+
+====================================
+THREAT DISTRIBUTION
+====================================
+
+  1   2   3   4 
+258 243 247 252 
+
+====================================
+ATTACK RESULT
+====================================
+
+   Blocked Successful 
+       545        455 
+
+====================================
+STATISTICS
+====================================
+Mean Risk Score : 0.4949495 
+SD Risk Score : 0.2890034 
+Mean CPU Usage : 0.4866419 
+Mean Memory Usage : 0.4979704 
+Mean Attack Probability : 0.573 
